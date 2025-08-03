@@ -20,4 +20,4 @@
 @REM echo off
 @REM pause
 
-powershell.exe -executionpolicy bypass -scope process -file "reverse.ps1"
+powershell.exe -executionpolicy bypass -scope process -file ".\reverse.ps1"
